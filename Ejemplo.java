@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int n = scanner.nextInt();
+
+        if (n % 2 != 0) {
+            System.out.println("Weird");
+        } else if (n >= 2 && n <= 5) {
+
+        }
+    }
+
+    public static void printNumbers() {
+        Scanner scanner = new Scanner(System.in);
+        int int1 = scanner.nextInt();
+        int int2 = scanner.nextInt();
+        int int3 = scanner.nextInt();
+        scanner.close();
+
+        System.out.println(int1);
+        System.out.println(int2);
+        System.out.println(int3);
+    }
+}
