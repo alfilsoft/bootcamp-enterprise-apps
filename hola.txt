@@ -1,0 +1,6 @@
+Hola, un saludo a todos 
+
+Esta es una nueva version del archivo hola.txt
+
+Miércoles 17 de Abril de 2024
+7:49 pm
