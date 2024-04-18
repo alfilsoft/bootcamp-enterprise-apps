@@ -1,4 +1,4 @@
 public class Cuenta(String[]args){
-	System.out.println("Welcome everybody");			
+	System.out.println("Hello world");			
 
 }
